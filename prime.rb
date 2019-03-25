@@ -3,3 +3,4 @@ def prime?
   else
     false
 end
+end
