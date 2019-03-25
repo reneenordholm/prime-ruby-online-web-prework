@@ -1,3 +1,5 @@
 def prime?
-  Prime.prime?(2)
+  if Prime.prime?(2)
+  else
+    false
 end
